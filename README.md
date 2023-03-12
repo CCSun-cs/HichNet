@@ -5,4 +5,17 @@ Tensorflow Code for HichNet
 ## Citation
 Please consider citing our paper if you find it useful.
 
-
+{@inproceedings{SunSFZZN19,
+  author    = {Changchang Sun and
+               Xuemeng Song and
+               Fuli Feng and
+               Wayne Xin Zhao and
+               Hao Zhang and
+               Liqiang Nie},
+  title     = {Supervised Hierarchical Cross-Modal Hashing},
+  booktitle = {Proceedings of the 42nd International {ACM} {SIGIR} Conference on
+               Research and Development in Information Retrieval},
+  pages     = {725--734},
+  publisher = {{ACM}},
+  year      = {2019}
+}}
