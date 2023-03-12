@@ -7,7 +7,7 @@ Please consider citing our paper if you find it useful.
 
 
 ```markdown
-	@inproceedings{SunSFZZN19,
+@inproceedings{SunSFZZN19,
   author    = {Changchang Sun and
                Xuemeng Song and
                Fuli Feng and
