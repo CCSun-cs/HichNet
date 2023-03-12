@@ -5,7 +5,9 @@ Tensorflow Code for HichNet
 ## Citation
 Please consider citing our paper if you find it useful.
 
-{@inproceedings{SunSFZZN19,
+
+```markdown
+	@inproceedings{SunSFZZN19,
   author    = {Changchang Sun and
                Xuemeng Song and
                Fuli Feng and
@@ -18,4 +20,6 @@ Please consider citing our paper if you find it useful.
   pages     = {725--734},
   publisher = {{ACM}},
   year      = {2019}
-}}
+}
+```
+
